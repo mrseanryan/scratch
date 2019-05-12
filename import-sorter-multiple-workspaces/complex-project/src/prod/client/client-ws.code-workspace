@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.fontSize": 1,
+		"importSorter.generalConfiguration.configurationFilePath": "../../../import-sorter.json"
+	}
+}

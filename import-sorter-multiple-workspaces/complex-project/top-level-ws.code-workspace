@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"importSorter.generalConfiguration.configurationFilePath": "./import-sorter.json"
+	}
+}
