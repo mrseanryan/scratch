@@ -1,0 +1,3 @@
+# :beers: scratch readme
+
+Repo for sharing scratch work ...
